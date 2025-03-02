@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Jiu Jitsu Black Belt by night ☾
+#### A Full-Stack Developer 🧑‍💻 by day ☼ and a Jiu Jitsu Black Belt 🥋 by night ☾
 
-Full-Stack Developer at [Convertr](https://convertr.com.br);<br>
+Full-Stack Developer at <a href="https://convertr.com.br" style="color:#8257fd">Convertr</a>;
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`, `.psd`, `.fig`
-- 🏢👨‍💼 I lead a micro-team (four people) at [**<p style="color: #6A1B9A;">Convertr</p>**](https://convertr.com.br)
+- 🏢👨‍💼 I lead a micro-team (four people) at [**Convertr**](https://convertr.com.br)
 - 💬 `ping` me about **design**, **laravel**, **development**, **front-end**, **back-end**, **people management**

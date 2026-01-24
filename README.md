@@ -1,12 +1,12 @@
 ### Hello there 👋
 
-#### Full-Stack Developer ⚙️ • AI, Cloudflare & E-commerce
+#### Full-Stack Engineer 🛠️ • PHP + Edge Computing + AI
 
-Full-Stack Developer at <a href="https://convertr.com.br" style="color:#8257fd">Convertr</a>
+Building the next-gen e-commerce at <a href="https://convertr.com.br" style="color:#8257fd">Convertr</a>
 
-- ⚙️ I work daily with `.php`, `.ts`, `.js`, `.vue`
-- 🔧 Main stack: **Laravel**, **Vue/Nuxt**, **Node/Hono**, **Cloudflare Workers/R2/D1**
-- 🤖 Focus on **AI integration** (Gemini, Neuron-AI, RAG, automation)
-- 🛒 Strong background in **e-commerce**, **checkout flows**, **analytics** and **embedded widgets**
-- 🏢 Lead a 4-person micro-team shipping features at **Convertr**
-- 💬 `ping` me about **laravel**, **nuxt**, **cloudflare**, **serverless**, **ai**, **web3**, **saas**
+- ⚡ **The Stack:** Mastering the **Laravel** ecosystem while pushing boundaries with **Cloudflare Workers/R2/D1** & **Hono**.
+- 🧠 **AI Engineering:** Created **Virtual Try-On** features that boosted lead capture by **400%**.
+- 🛒 **E-commerce:** Expert in checkout flows, embedded widgets, and high-conversion UX.
+- 🔧 **T-Shaped:** Comfortable jumping from **Legacy PHP** refactoring to **Serverless** MVP validation.
+- 👨‍💻 **Role:** Tech Lead shipping features & performance fixes with a nimble team.
+- 📫 `ping` me about: **nuxt**, **serverless**, **ai-agents**, **video-commerce**

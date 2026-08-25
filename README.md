@@ -10,3 +10,6 @@ Building the next-gen e-commerce at <a href="https://convertr.com.br" style="col
 - 🔧 **T-Shaped:** Comfortable jumping from **Legacy PHP** refactoring to **Serverless** MVP validation.
 - 👨‍💻 **Role:** Tech Lead shipping features & performance fixes with a nimble team.
 - 📫 `ping` me about: **nuxt**, **serverless**, **ai-agents**, **video-commerce**
+
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=devinkel)](https://github.com/LordDashMe/github-contribution-stats/)
